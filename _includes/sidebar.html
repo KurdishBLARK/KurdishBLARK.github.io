@@ -7,7 +7,7 @@
 
 
 <div class="sidebar well">
-    <h1>Recent Posts</h1>
+    <h1>Recent News</h1>
     <ul>
         {% for post in site.posts limit:5 %}
           <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
@@ -15,6 +15,6 @@
     </ul>
 </div>
 
-<div class="sidebar well">
+<!-- <div class="sidebar well">
 {% include links-list.html %}
-</div>
+</div> -->
