@@ -39,4 +39,4 @@ plugins: ['jekyll-paginate']
 
 exclude: ['README.md', 'LICENSE']
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
