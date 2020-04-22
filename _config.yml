@@ -38,3 +38,5 @@ markdown: kramdown
 plugins: ['jekyll-paginate']
 
 exclude: ['README.md', 'LICENSE']
+
+theme: jekyll-theme-cayman
