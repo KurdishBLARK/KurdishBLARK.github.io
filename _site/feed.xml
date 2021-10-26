@@ -7,7 +7,7 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 
 					<item>
-				<title>New additions to repositories</title>
+				<title>New additions to the repositories</title>
 				<description>&lt;hr /&gt;
 &lt;p&gt; A new script to transliterate Kurdish text in Latin into Persian-Arabic is now available in Kurdish-BLARK repository.
 </description>
@@ -15,7 +15,7 @@
 			</item>
 		
 					<item>
-				<title>New additions to repositories</title>
+				<title>New additions to the repositories</title>
 				<description>&lt;hr /&gt;
 &lt;p&gt;New datasets, such as diphones for text to speech and dataset to finetune Tesseract have been added to the Kurdish BLARK.
 </description>
