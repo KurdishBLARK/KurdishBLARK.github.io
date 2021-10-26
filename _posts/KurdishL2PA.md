@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Kurdish Latin into Persian-Arabic scripy"
+date: 2021-10-26 12:45:00 
+comments: false
+---
+
+---
+A new script has been added to Kurdish BLARK to translate texts in Lation into Persian-Arabic script.
