@@ -6,4 +6,4 @@ comments: false
 ---
 
 ---
-A new script has been added to Kurdish BLARK to translate texts in Lation into Persian-Arabic script.
+A new script has been added to Kurdish BLARK to translate texts in Latin into Persian-Arabic script.
