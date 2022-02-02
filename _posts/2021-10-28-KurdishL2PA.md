@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kurdish Latin into Persian-Arabic scripy"
+title: "Kurdish Latin into Persian-Arabic script"
 date: 2021-10-26 12:45:00 
 comments: false
 ---
