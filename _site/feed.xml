@@ -9,6 +9,12 @@
 					<item>
 				<title>New additions to the repositories</title>
 				<description>&lt;hr /&gt;
+&lt;p&gt; A language model in Kurdish (Sorani) based on KTC is now available.
+</description>
+				<pubDate>Teu, 22 June 2022 12:30:00 +0100</pubDate>
+			</item>
+				<title>New additions to the repositories</title>
+				<description>&lt;hr /&gt;
 &lt;p&gt; A new script to transliterate Kurdish text in Latin into Persian-Arabic is now available in Kurdish-BLARK repository.
 </description>
 				<pubDate>Teu, 26 Oct 2021 13:14:00 +0100</pubDate>
@@ -19,7 +25,7 @@
 				<description>&lt;hr /&gt;
 &lt;p&gt;New datasets, such as diphones for text to speech and dataset to finetune Tesseract have been added to the Kurdish BLARK.
 </description>
-				<pubDate>Teu, 26 Oct 2021 12:45:00 +0100</pubDate>
+				<pubDate>Teu, 26 Oct 2021 14:00:00 +0100</pubDate>
 			</item>
 
 		<item>
