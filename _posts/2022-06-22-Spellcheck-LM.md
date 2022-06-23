@@ -6,4 +6,4 @@ comments: false
 ---
 
 ---
-A language model based on KTC (Kurdish Textbooks Corpus) <a [href="https://github.com/KurdishBLARK/KTc-POST" target="blank"](https://github.com/KurdishBLARK/KTC-Language-Model)>for spellchecking is now available. The related article <a href="http://www.lrec-conf.org/proceedings/lrec2022/workshops/SIGUL/pdf/2022.sigul-1.25.pdf" target="_blank">here</a>.
+A <a href="http://www.lrec-conf.org/proceedings/lrec2022/workshops/SIGUL/pdf/2022.sigul-1.25.pdf" target="_blank">language model</a> based on KTC (Kurdish Textbooks Corpus) for spellchecking is now available. The related article <a href="http://www.lrec-conf.org/proceedings/lrec2022/workshops/SIGUL/pdf/2022.sigul-1.25.pdf" target="_blank">here</a>.
