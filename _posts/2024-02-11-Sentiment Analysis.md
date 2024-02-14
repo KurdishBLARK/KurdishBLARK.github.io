@@ -7,7 +7,7 @@ comments: false
 
 ---
 A dataset for sentiment analysis in Sorani Kurdish is available
-[here](https://github.com/KurdishBLARK/SentimentAnalysis)
+[here](https://github.com/KurdishBLARK/SentimentAnalysis).
 
 For the related paper refer to ["Sentiment Analysis of Opinions about Online Education in the Kurdistan Region of Iraq during COVID-19"](https://www.qeios.com/read/SU5BR9.2). 
 
