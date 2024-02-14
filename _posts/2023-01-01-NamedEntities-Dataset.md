@@ -7,4 +7,4 @@ comments: false
 ---
 
 ---
-A <a href="https://github.com/KurdishBLARK/KurdishNamedEntities" target="_blank">Kuridsh Name Entities</a> . The related article <a href="https://arxiv.org/abs/2301.04962" target="_blank">here</a>.
+Additional datasets as amendments to Kurdish BLARK are available at <a href="https://github.com/KurdishBLARK/KurdishNamedEntities" target="_blank">Kuridsh Name Entities</a> . The related article is found <a href="https://arxiv.org/abs/2301.04962" target="_blank">here</a>.
