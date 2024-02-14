@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sentiment Analysis in Sorani Kurdish"
-date: 2024-02-011 14:00:00 
+date: 2024-02-11 14:00:00 
 comments: false
 ---
 
